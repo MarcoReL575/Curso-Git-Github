@@ -29,6 +29,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 | 🥉 Jefa de infiltración   | Mystique   | Espionaje, identidades falsas y operaciones encubiertas |
 | ⚙️ Director de tecnología | Brainiac   | Sistemas, armamento y recopilación de datos             |
 | ⚙️ Director de operaciones | Jooker   | Estrategia, indicaciones, planes y desarrollo de planes  |
+| ⚙️ Director de reclutamiento | Harley Quuin | Inteligencia para reclutar compañeros malvados  |
 
 ## Miembros activos (campo)
 
