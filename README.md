@@ -15,7 +15,10 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📁 guaridas/        → Ubicaciones y estado de nuestras bases
 📁 inteligencia/    → Expedientes de los héroes enemigos
 📄 misiones.yaml    → Estado global de todas las misiones
+<<<<<<< Updated upstream
 📄 misiones-secundarias.yaml    → Estado global de todas las misiones-secundarias
+=======
+>>>>>>> Stashed changes
 📄 README.md        →  Documentación principal del repositorio
 
 ```
