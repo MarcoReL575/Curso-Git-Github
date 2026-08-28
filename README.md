@@ -28,6 +28,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 | 🥈 Segundo al mando       | Magneto    | Estratega militar y reclutamiento de mutantes           |
 | 🥉 Jefa de infiltración   | Mystique   | Espionaje, identidades falsas y operaciones encubiertas |
 | ⚙️ Director de tecnología | Brainiac   | Sistemas, armamento y recopilación de datos             |
+| ⚙️ Director de operaciones | Jooker   | Estrategia, indicaciones, planes y desarrollo de planes  |
 
 ## Miembros activos (campo)
 
