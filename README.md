@@ -77,3 +77,5 @@ _Este repositorio es propiedad de la Legión del Mal. Acceso no autorizado será
 - **Discrod:** [@legiondelMal](https://t.me/legiondelmal)
 - **Telegram:** [La legión del mal](https://discrod:gg/legiondelmal)
 - **Twitter:**  [La legión del mal](https://discrod:gg/legiondelmal)
+- **WhatsApp:**  [La legión del mal](https://whatsapp:gg/legiondelmal)
+- **SitioWeb:**  [La legión del mal](https://legiondelmal.mx)
