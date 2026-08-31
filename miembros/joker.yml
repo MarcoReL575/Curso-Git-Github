@@ -1,0 +1,26 @@
+# =============================================
+# FICHA DE VILLANO - LEGIÓN DEL MAL
+# =============================================
+
+nombre: "Joker"
+designacion: "The Joker"
+universo: DC
+rango: "Director de Estartegías"
+estado: activo
+
+habilidades:
+  - Inteligencia artificial de nivel 12 (la escala humana llega a 6)
+  - Procesamiento simultáneo de millones de variables
+  - Hackeo instantáneo de cualquier sistema informático terrestre
+  - Nanotecnología y autoregeneración
+  - Base de datos con información de 47 civilizaciones extintas
+  - Puede crear y controlar drones de combate ilimitados
+rol_en_la_legion: |
+  Lider de estrategía. 
+
+
+notas_confidenciales: |
+  Joker es un villano sumamente inteligente, capaz de crear planes muy astutos
+  y capaz de resolver problemas en tiempo real para salirse con la suya.
+  El miedo no es algo que lo detenga y esta dispuesto a hacer todo con tal de 
+  ver arder a Ciudad Gótica o a sus enemigos
