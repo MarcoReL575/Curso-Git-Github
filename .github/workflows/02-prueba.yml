@@ -1,0 +1,11 @@
+name: Prueba reclutamiento 2
+
+on: push
+
+jobs: 
+  reporte-de-reclutamiento:
+    runs-on: ubuntu-latest
+    
+    steps: 
+      - name: El agente se presenta
+        run: echo "Soy Killing Joke"
